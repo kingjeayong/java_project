@@ -1,14 +1,14 @@
-# 자바 개인 프로젝트 JAVA PROJECT <img src="https://img.shields.io/badge/java-11.0.2-green">  <img src="https://img.shields.io/badge/-oracle-blue"> 
+# 자바 개인 프로젝트 JAVA PROJECT <img src="https://img.shields.io/badge/java-11.0.2-green">  <img src="https://img.shields.io/badge/-MYSQL-blue">  <img src="https://img.shields.io/badge/jsp-red"> 
 
-💡 `#JAVA`와 `#JDBC`(Oracle)를 이용하여 만든 **JAVA 게시판만들기 프로젝트**  
+💡 `#JSP`와 `#DB`(MYSQL)를 이용하여 만든 ** JSP 게시판만들기 프로젝트**  
 <br>
 
 ## ✔ 프로젝트 소개 
-- 개발기간 : 22/12/05 ~ 22/12/10
+- 개발기간 : 22/12/19 ~ 22/12/23
 - 개발환경 : Windows 10
-- 개발도구 : <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
-- 프로젝트 성격 : JAVA 콘솔 프로젝트 
-- 프로젝트 목표 : CRUD 기능이 포함된 게시판이 명령 프롬프트(윈도우)에서 실행되도록 JDBC를 활용해서 구현해보았습니다.
+- 개발도구 : <img src="https://img.shields.io/badge/Eclipse_jsp-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-2C2255?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/notion-2C2255?style=for-the-badge&logo=notion&logoColor=white">
+- 프로젝트 성격 : JSP & DB를 활용한 수강신청 및 게시판(BBS) 프로젝트
+- 프로젝트 목표 : ????
 <br>
 <br>
 
